@@ -1,0 +1,26 @@
+# Build and release output
+build/
+dist/
+release/
+
+# Visual Studio and .NET
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.cache
+
+# Compiled and packaged files
+*.exe
+*.dll
+*.pdb
+*.zip
+*.msi
+
+# Windows shortcuts and temporary files
+*.lnk
+*.tmp
+*.temp
+Thumbs.db
+.DS_Store
